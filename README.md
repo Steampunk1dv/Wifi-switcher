@@ -22,3 +22,4 @@ python3 wifi_switcher.py
 - No Windows, o app usa `netsh` na interface `Wi-Fi`.
 
 Se o nome da sua interface for diferente, altere as constantes no topo do arquivo `wifi_switcher.py`.
+Feito por fins educativos
